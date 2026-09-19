@@ -1,0 +1,145 @@
+[
+    {
+        "id": "b005ce29-0607-485b-a57c-d5cf1666cae9",
+        "prediction": "Malignant",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 1.0,
+            "benign": 0.0
+        },
+        "created_at": "2026-09-19 18:25:14"
+    },
+    {
+        "id": "5ab5b2ee-156d-44c9-b727-79140fd63dc8",
+        "prediction": "Malignant",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 1.0,
+            "benign": 0.0
+        },
+        "created_at": "2026-09-19 18:17:36"
+    },
+    {
+        "id": "4ca50ac0-ac5d-4ed5-9bb8-d55ec44b8316",
+        "prediction": "Malignant",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 1.0,
+            "benign": 0.0
+        },
+        "created_at": "2026-09-14 13:36:13"
+    },
+    {
+        "id": "64efb380-685b-4b07-be42-2e6e615ec38d",
+        "prediction": "Malignant",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 1.0,
+            "benign": 0.0
+        },
+        "created_at": "2026-09-14 13:33:03"
+    },
+    {
+        "id": "2496c5df-2c70-4261-b44b-8343eed17126",
+        "prediction": "Malignant",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 1.0,
+            "benign": 0.0
+        },
+        "created_at": "2026-09-14 13:30:00"
+    },
+    {
+        "id": "0a0b9e86-7b13-4e76-a2af-b8b84ed5e225",
+        "prediction": "Malignant",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 1.0,
+            "benign": 0.0
+        },
+        "created_at": "2026-09-14 13:27:46"
+    },
+    {
+        "id": "297c2cbd-a9fd-4453-a23f-bedd482c7ba4",
+        "prediction": "Malignant",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 1.0,
+            "benign": 0.0
+        },
+        "created_at": "2026-09-14 13:25:16"
+    },
+    {
+        "id": "fdc3074a-6c5b-4b93-b6d7-3b6acadbf0b9",
+        "prediction": "Benign",
+        "confidence": 99.72,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 0.0028,
+            "benign": 0.9972
+        },
+        "created_at": "2026-09-14 13:18:15"
+    },
+    {
+        "id": "80b9c70b-c3c4-484f-a7ad-bd31b9f2df81",
+        "prediction": "Benign",
+        "confidence": 99.85,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 0.0015,
+            "benign": 0.9985
+        },
+        "created_at": "2026-09-14 12:52:23"
+    },
+    {
+        "id": "37c45773-be08-43b3-9692-14cdf3af2097",
+        "prediction": "Benign",
+        "confidence": 99.86,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 0.0014,
+            "benign": 0.9986
+        },
+        "created_at": "2026-09-14 12:50:46"
+    },
+    {
+        "id": "4693e6df-fb3e-415f-96cd-c60c652aeb8e",
+        "prediction": "Benign",
+        "confidence": 99.86,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 0.0014,
+            "benign": 0.9986
+        },
+        "created_at": "2026-09-14 12:43:51"
+    },
+    {
+        "id": "89e4d065-ccee-466f-ad14-4cd1919f254b",
+        "prediction": "Benign",
+        "confidence": 99.86,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 0.0014,
+            "benign": 0.9986
+        },
+        "created_at": "2026-09-14 12:40:31"
+    },
+    {
+        "id": "2dfe7226-9d28-4750-9d56-a7b83ad21c49",
+        "prediction": "Benign",
+        "confidence": 100.0,
+        "model_used": "logistic_regression",
+        "probabilities": {
+            "malignant": 0.0,
+            "benign": 1.0
+        },
+        "created_at": "2026-09-14 12:36:26"
+    }
+]
